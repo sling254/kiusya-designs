@@ -3,19 +3,31 @@
     font-size: 1.8em;
     font-weight: bold;
 }
+
 .about{
     background-color:white;
-
-   
+}
+/* Style Services section */
+#services-h3{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+#services-h1{
+    font-size: 40px;
+    text-align: center;
+}
+.services{
+    margin-top: 50px;
+}
+span{
+    font-weight: bold;
 }
 .clearfix{
     overflow:auto;
 }
 
-.about-text{
-    
-   
-}
+
 .resume{
     background-color:#A9CBEA;
 }
