@@ -4,7 +4,15 @@
 }
 .about{
     background-color:white;
+
+   
 }
 .clearfix{
     overflow:auto;
+}
+
+.about-text{
+    margin-right: 0px;
+    padding: 0px;
+   
 }
