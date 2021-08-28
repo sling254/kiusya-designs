@@ -7,6 +7,9 @@
 .about{
     background-color:white;
 }
+.clearfix{
+    overflow:auto;
+}
 /* Style Services section */
 #services-h3{
     font-size: 20px;
@@ -23,19 +26,30 @@
 span{
     font-weight: bold;
 }
-.clearfix{
-    overflow:auto;
-}
-
-
+/* Style Resume section */
 .resume{
     background-color:#A9CBEA;
+}
+#resume-h3{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+#resume-h1{
+    font-size: 40px;
+    text-align: center;
+}
+#span-resume{
+    font-weight: lighter;
+    font-style: italic;
 }
 .timeline {
     position: relative;
     max-width: 1200px;
     margin: 0 auto;
   }
+
+
 /* The actual timeline (the vertical ruler) */
 .timeline::after {
     content: '';
