@@ -3,11 +3,23 @@
     font-weight: bold;
     text-emphasis-color: blue !important;
 }
+.hero-container{
+  background-color:#A9CBEA;
+  margin-top:1%;
+}
+#hero-h1{
+  color: #5543ca;
+  margin-top: 20%;
+  text-decoration-style: wavy;
+  font-family:  cursive;
+  font-size: 3em;
+  
+}
 .about{
     background-color:white;
 }
 .clearfix{
-    overflow:auto;
+    overflow:hidden;
 }
 /* Style Services section */
 #services-h3{
