@@ -1,9 +1,8 @@
-
 .navbar-brand{
     font-size: 1.8em;
     font-weight: bold;
+    text-emphasis-color: blue !important;
 }
-
 .about{
     background-color:white;
 }
