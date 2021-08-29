@@ -6,6 +6,19 @@
   background-color:#A9CBEA;
   margin-top:1%;
 }
+h1{
+  font-family: cursive;
+
+}
+h3{
+  font-family: 'Times New Roman', Times, serif;
+}
+#about-paragraph{
+  font-family: Rockwell;
+  line-height: 2em;
+
+
+}
 #hero-h1{
   color: #5543ca;
   margin-top: 20%;
@@ -19,6 +32,9 @@
 }
 .clearfix{
     overflow:hidden;
+}
+#about-h3{
+  margin-top: 40%;
 }
 /* Style Services section */
 #services-h3{
