@@ -4,6 +4,8 @@ This website serves as an online portfolio to showcase my web presence, resume, 
 
 ### Check out the website :stars:
 
+https://sling254.github.io/kiusya-designs/
+
 
 # Project Setup Instructions
 
